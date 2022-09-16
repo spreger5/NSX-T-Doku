@@ -1,0 +1,22 @@
+NSX-T:
+======
+
+öbersicht:
+
+   https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.2/quick_start/GUID-93FF7092-EC5D-45FE-B707-D678A9CA2F69.html
+
+Dokumentation: Links zu weiterfÅhrender Doku
+
+   https://docs.vmware.com/en/VMware-NSX-T-Data-Center/index.html
+
+SchlÅssel-Konzepte: Recht genaue Beschreibung der SchlÅsselkonzepte. Hilfreich, da sie ziemlich viel Details
+                    beschreibt. Mit dieser Info kann man viele Begriffe konkretisieren, wie z.B. dass ein T0-Router
+                    fÅr die North-South-Connectivity zustÑndig ist etc.
+
+   https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.2/installation/GUID-A1BBC650-CCE3-4AC3-A774-92B195183492.html
+
+NSX-T-Manager: Vor allem Policy-Mode vs. Manager-Mode. Vor allem unterschiedliche Namen fÅr die Objekte,
+               z.B. Segment :: Logical Switch, Tier-0-Gateway :: Tier-0-Router
+
+   https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.2/installation/GUID-BB26CDC8-2A90-4C7E-9331-643D13FEEC4A.html
+
